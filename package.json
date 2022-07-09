@@ -1,0 +1,23 @@
+{
+  "name": "weather_api_web_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJenkinsSolutions/Weather_API_Web_App.git"
+  },
+  "author": "Alexander Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJenkinsSolutions/Weather_API_Web_App/issues"
+  },
+  "homepage": "https://github.com/AJenkinsSolutions/Weather_API_Web_App#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
